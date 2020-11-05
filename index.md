@@ -1,4 +1,5 @@
 ## Lyric's Blog
+前排%%%余能
 
 ## Welcome to GitHub Pages
 
