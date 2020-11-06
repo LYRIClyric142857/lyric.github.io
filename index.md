@@ -1,6 +1,9 @@
 ## Lyric's Blog
 前排%%%余能orz
 
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/LYRIClyric142857/lyric.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
